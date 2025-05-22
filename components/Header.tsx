@@ -35,7 +35,7 @@ const Header = ({ onSearch }: HeaderProps) => {
             onClick={() => router.push("/")}
           >
             <ShoppingBag size={36} />
-            <h1 className="text-xl lg:text-2xl font-bold">E-commerce</h1>
+            <h1 className="text-xl lg:text-2xl font-bold">E-Store</h1>
           </div>
 
           {/* Right Section (Cart + Profile) */}
