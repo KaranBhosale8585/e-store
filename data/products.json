@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Running Shoes",
+    "category": "Shoes",
+    "brand": "Nike",
+    "price": 4500,
+    "image": "/images/nike-shoes.jpg",
+    "rating": 4.5,
+    "description": "High-performance running shoes designed for comfort, speed, and durability."
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 13",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 75000,
+    "image": "/images/iphone.jpg",
+    "rating": 5,
+    "description": "Powerful smartphone with A15 Bionic chip, 5G speed, and advanced dual-camera system."
+  },
+  {
+    "id": 3,
+    "name": "Samsung TV",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 40000,
+    "image": "/images/samsung-tv.jpg",
+    "rating": 4,
+    "description": "43-inch 4K Ultra HD Smart LED TV with vibrant colors and built-in streaming apps."
+  },
+  {
+    "id": 4,
+    "name": "Zara T-shirt",
+    "category": "Clothing",
+    "brand": "Zara",
+    "price": 1200,
+    "image": "/images/zara-tshirt.jpg",
+    "rating": 3.5,
+    "description": "Casual crew neck cotton t-shirt offering a relaxed fit and timeless style."
+  },
+  {
+    "id": 5,
+    "name": "Nike Sportswear",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 3000,
+    "image": "/images/nike-sportswear.jpg",
+    "rating": 4.2,
+    "description": "Comfortable sportswear perfect for training and casual wear with a modern look."
+  },
+  {
+    "id": 6,
+    "name": "Apple AirPods",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 15000,
+    "image": "/images/airpods.jpg",
+    "rating": 4.8,
+    "description": "Wireless earbuds with active noise cancellation and seamless Apple device integration."
+  },
+  {
+    "id": 7,
+    "name": "Galaxy Watch",
+    "category": "Accessories",
+    "brand": "Samsung",
+    "price": 18000,
+    "image": "/images/galaxy-watch.jpg",
+    "rating": 4.3,
+    "description": "Smartwatch with fitness tracking, heart rate monitoring, and AMOLED display."
+  },
+  {
+    "id": 8,
+    "name": "Zara Sunglasses",
+    "category": "Accessories",
+    "brand": "Zara",
+    "price": 1600,
+    "image": "/images/zara-sunglasses.jpg",
+    "rating": 3.9,
+    "description": "Stylish UV-protected sunglasses offering a sleek look for sunny days."
+  },
+  {
+    "id": 9,
+    "name": "Nike Backpack",
+    "category": "Accessories",
+    "brand": "Nike",
+    "price": 2000,
+    "image": "/images/nike-backpack.jpg",
+    "rating": 4.1,
+    "description": "Durable and lightweight backpack with multiple compartments for daily use."
+  },
+  {
+    "id": 10,
+    "name": "Zara Shoes",
+    "category": "Shoes",
+    "brand": "Zara",
+    "price": 3500,
+    "image": "/images/zara-shoes.jpg",
+    "rating": 4,
+    "description": "Fashion-forward shoes crafted for comfort and elegance in everyday wear."
+  }
+]
