@@ -43,7 +43,7 @@ const ProductPage = () => {
   return (
     <>
       <Header onSearch={() => {}} />
-      <div className="max-w-6xl mx-auto py-10 px-4 grid md:grid-cols-2 gap-10 bg-white text-black">
+      <div className="p-8 flex gap-2 bg-white text-black">
         <div className="w-full h-96 relative">
           <Image
             src={product.image}
